@@ -1,0 +1,35 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+        <title>Headlines.</title>
+        <Link href="headlines.css" rel="stylesheet">
+    </head>
+    
+    <body>
+
+        <header
+
+        <h1>Headlines.</h1>
+
+        <nav>
+            <u1>
+                <1i>home</1i>
+                <1i>About</1i>
+                <1i>Blogs</1i>
+                <1i>Contact Us</1i>
+            </u1>
+        </nav>
+        <h3>we collect and curate,articals, opinions, and images from around the world.</h3>
+        <p><strong>We collect and curate articals, opinions, and images around the world. </strong></p>
+    </header>
+
+    <main>
+
+        <div>
+            <h4>The bottom line.</h4/>
+            <p>we deliver the news that is relevant to you.</p>
+        </div>
+
+        <div
+    </main>
