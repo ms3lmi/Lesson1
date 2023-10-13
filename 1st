@@ -1,35 +1,93 @@
-<DOCTYPE html>
-    <html>
+<!DOCTYPE html>
+<html>
 
-    <head>
-        <title>Headlines.</title>
-        <Link href="headlines.css" rel="stylesheet">
-    </head>
-    
-    <body>
+<head>
+    <title>headlines</title>
+    <link href="headlines.css" rel="stylesheet">
+</head>
 
-        <header
+<body>
+
+    <header>
 
         <h1>Headlines.</h1>
 
         <nav>
             <u1>
-                <1i>home</1i>
-                <1i>About</1i>
-                <1i>Blogs</1i>
-                <1i>Contact Us</1i>
-            </u1>
+                <1i><a href="#">Home</a></1i>
+                <1i><a href="#">About</a></1i>
+                <1i><a href="#">Blogs</a></1i>
+               <1i><a href="#">Contact Us</a></1i>
+            </u1> 
         </nav>
-        <h3>we collect and curate,articals, opinions, and images from around the world.</h3>
-        <p><strong>We collect and curate articals, opinions, and images around the world. </strong></p>
-    </header>
 
+    <h3>We collect and curate articals, opinions and images from around the world.</h3
+    <p><strong>We collect and curate articals, opinions, and images from around the world.</p><strong/></p>
+
+</header>
+    
     <main>
+       
+        <div>
+            <h4>The Bottom Line.</h4>
+            <p>We deliver the news that is relevant to you</p>
+        </div>
+        
+        
+    <div class-"flex-container">
 
         <div>
-            <h4>The bottom line.</h4/>
-            <p>we deliver the news that is relevant to you.</p>
+            <img src="./pic1/ezgif-5-1b317a1992.jpg">
+        </div>
+        
+        <div>
+            <img src="./pic1/ezgif-5-8cff209fd8.jpg">
+        </div>
+        
+        <div>
+            <img src="./pic1/ezgif-5-750e811326.jpg">
         </div>
 
-        <div
-    </main>
+        <div>
+            <img src="./pic1/ezgif-5-9252655419.jpg">
+        </div>
+
+        <div>
+            <img src="./pic1/ezgif-5-bde07ea306.jpg">
+        </div>
+
+        <div>
+            <img src="./pic1/ezgif-5-c69d369a3b.jpg">
+        </div>
+
+        <div>
+            <img src="./pic1/ezgif-5-c87dc632ae.jpg">
+        </div>
+
+        <div>
+            <img src="./pic1/ezgif-5-df67343729.jpg">
+        </div>
+
+        <div>
+            <img src="./pic1/ezgif-5-ef90ba308b.jpg">
+        </div>
+     
+    </div>
+
+</main>
+
+<footer>
+
+ <h5>Headlines.</h5>
+
+ <p>
+    address,<br>
+    addreess address<br>
+    123123123123
+ </p>
+    
+</footer>
+
+</body>
+
+</html>
